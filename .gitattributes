@@ -1,0 +1,7 @@
+# Платформенные папки сгенерированы Flutter — не учитываем их в статистике языков GitHub
+android/** linguist-generated
+ios/** linguist-generated
+linux/** linguist-generated
+macos/** linguist-generated
+windows/** linguist-generated
+web/** linguist-generated
